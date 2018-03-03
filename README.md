@@ -3,7 +3,7 @@ Pure PHP & MySQL Registration form which send (plain text) email to the admin. D
 
 Small web application using PHP, MySQL and Bootstrap 4.x.
 
-A new user enter his personal data on a registration form.
+A new user enter his personal data on a registration form :
 
 • Salutation
 
