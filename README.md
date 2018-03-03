@@ -1,2 +1,2 @@
 # pure-php-registration
-Pure PHP Registration form sending plain text email to the admin as MVC (Model-View-Controller) php & web application
+Pure PHP & MySQL Registration form which send (plain text) email to the admin. Developed as simple MVC (Model-View-Controller) software architecture. A simple PHP & Web application.
